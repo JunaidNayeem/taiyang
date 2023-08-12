@@ -1,0 +1,22 @@
+{
+    "title": "<h4>WELCOME TO TAIYANG 太陽</h4>A Diverse Company Transforming Global Commerce with Dynamic Solutions.",
+    "subtitle": "",
+    "number": {
+        "value": "08",
+        "label": "Years of Strategic Business Experience"
+    },
+    "items": [
+        {
+            "title": "Our Mission",
+            "text": "From the moment our company was founded we have helped our clients find <strong>exceptional solutions for their businesses</strong> memorable brands and digital products. Our expertise grows with each year, and our accumulated experience."
+        },
+        {
+            "title": "Our Goal",
+            "text": "Our goal is to deliver amazing experiences that make people talk, and build strategic value for brands, tech & entertainment.",
+            "button": {
+                "label": "More About Us",
+                "link": "/about"
+            }
+        }
+    ]
+}

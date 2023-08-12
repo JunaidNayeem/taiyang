@@ -1,0 +1,34 @@
+{
+  "title": "Testimonials",
+  "rating": {
+    "value": "4.8",
+    "label": "Average rating from all Client's"
+  },
+  "items": [
+    {
+      "name": "Michael Chen",
+      "role": "COO, Nexus Dynamics",
+      "text": "Professionally blending innovation with genuine care, Taiyang Global tailored their strategies to our unique needs in product sourcing, resulting in growth beyond our expectations."
+    },
+    {
+      "name": "Jonathan Lee",
+      "role": "CFO, Precision Manufacturing",
+      "text": "In a world of data, Taiyang Global stands out for their insights' precision. Under the expert guidance of Taiyang Global, the optimization of our supply chain has significantly enhanced efficiency and ROI."
+    },
+    {
+      "name": "Emily Rodriguez",
+      "role": "CEO, TechNova",
+      "text": "Thanks to Taiyang Global's cutting-edge solutions in business consulting, our operations have undergone a remarkable transformation, leading to increased profitability."
+    },
+    {
+      "name": "Sarah Thompson",
+      "role": "CMO, Stellar Brands",
+      "text": "Seeking impactful results? Look no further than Taiyang Global. The strategic brilliance and creative insights of Taiyang Global have not only elevated our brand but have also redefined our industry presence."
+    },
+    {
+      "name": "Sophia Patel",
+      "role": "Design Head, Ignite Innovations",
+      "text": "Ignite Innovations owes its journey from ideation to scaling to Taiyang Global. Their invaluable expertise and expansive network have fueled not only our startup's ascent but also the design and branding of our website, solidifying our path to success."
+    }
+  ]
+}

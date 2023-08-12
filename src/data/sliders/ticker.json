@@ -1,0 +1,44 @@
+{
+    "items": [
+        {
+            "label": "- Import and Export",
+            "link": ""
+        },
+        {
+            "label": "- Consumer Electronics",
+            "link": ""
+        },
+        {
+            "label": "- IT Products",
+            "link": ""
+        },
+        {
+            "label": "- Management Consulting",
+            "link": ""
+        },
+        {
+            "label": "- IT-Related Services",
+            "link": ""
+        },
+        {
+            "label": "- Business Consulting",
+            "link": ""
+        },
+        {
+            "label": "- Product Sourcing",
+            "link": ""
+        },
+        {
+            "label": "- Digital Branding",
+            "link": ""
+        },
+        {
+            "label": "- Designing",
+            "link": ""
+        },
+        {
+            "label": "- Marketing",
+            "link": ""
+        }
+    ]
+}

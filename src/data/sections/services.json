@@ -1,0 +1,23 @@
+{
+    "items": [
+        {
+            "image": "/images/icon1.png",
+            "title": "Products",
+            "text": "Bespoke Business Strategy Development",
+            "link": "/services"
+        },
+        {
+            "image": "/images/icon2.png",
+            "title": "Services",
+            "text": "Optimization of Operational Excellence",
+            "link": "/services"
+        },
+        {
+            "image": "/images/icon3.png",
+            "title": "Retail",
+            "text": "Talent Assessment, Executive Coaching, and Leadership Development",
+            "link": "/services"
+        }
+
+    ]
+}

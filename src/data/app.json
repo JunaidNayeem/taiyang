@@ -1,0 +1,129 @@
+{
+    "settings": {
+        "siteName": "Taiyang 太陽",
+        "preloader": true,
+        "formspreeURL": "https://formspree.io/f/your_api_key",
+        "portfolio": {
+            "categories": [
+                {
+                    "label": "Electronics",
+                    "slug": "electronics"
+                },
+                {
+                    "label": "Computer ",
+                    "slug": "computer "
+                },
+                {
+                    "label": "Networking",
+                    "slug": "networking"
+                },
+                {
+                    "label": "Accessories ",
+                    "slug": "accessories"
+                },
+                {
+                    "label": "Fashion",
+                    "slug": "fashion"
+                }
+            ]
+        }
+    },
+    "header": {
+        "logo": {
+            "image": "/images/logo-main.png",
+            "image_white": "/images/logo-main.png",
+            "alt": "logo"
+        },
+        "menu": [
+            {
+                "label": "Home",
+                "link": "/",
+                "children": 0
+            },
+            {
+                "label": "About",
+                "link": "/about",
+                "children": 0
+            },
+            {
+                "label": "Products",
+                "link": "/projects",
+                "children": 0
+            },
+            {
+                "label": "Services",
+                "link": "/services",
+                "children": 0
+            },
+            {
+                "label": "Contact Us",
+                "link": "/contact",
+                "children": 0
+            }
+        ],
+        "button": {
+            "label": "Contact",
+            "link": "/contact"
+        },
+        "button2": {
+            "label": "Start a Project",
+            "link": "/contact"
+        }
+    },
+    "footer": {
+        "logo": {
+            "image": "/images/logo-black.png",
+            "alt": "logo"
+        },
+        "gallery": [
+            {
+                "image": "/images/post5-1024x683.jpg",
+                "title": "image",
+                "alt": "image"
+            },
+            {
+                "image": "/images/post4-1024x683.jpg",
+                "title": "image",
+                "alt": "image"
+            },
+            {
+                "image": "/images/post3-1024x683.jpg",
+                "title": "image",
+                "alt": "image"
+            },
+            {
+                "image": "/images/post4-1024x683.jpg",
+                "title": "image",
+                "alt": "image"
+            },
+            {
+                "image": "/images/post1-1024x683.jpg",
+                "title": "image",
+                "alt": "image"
+            },
+            {
+                "image": "/images/post6-1024x683.jpg",
+                "title": "image",
+                "alt": "image"
+            }
+        ],
+        "copy": "Copyright © 2023 Taiyang Global. All rights reserved."
+    },
+    "social": [
+        {
+            "link": "https://facebook.com",
+            "icon": "fab fa-facebook",
+            "title": "Facebook"
+        },
+        {
+            "link": "https://twitter.com",
+            "icon": "fab fa-twitter",
+            "title": "Twitter"
+        },
+        {
+            "link": "https://linkedin.com",
+            "icon": "fab fa-linkedin",
+            "title": "Linkedin"
+        }
+    ]
+}

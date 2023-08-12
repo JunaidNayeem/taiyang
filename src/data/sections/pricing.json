@@ -1,0 +1,501 @@
+{
+    "subtitle": "Pricing Plans",
+    "title": "It Helps You Choose <br>Prices to Maximise",
+    "items": [
+        {
+            "active": 0,
+            "title": "Processing Units",
+            "subtitle": "Computer & Tech Components",
+            "price": "",
+            "icon": "fas fa-rocket",
+            "list": [
+                {
+                    "label": "Central Processing Unit (CPU)",
+                    "included": 1
+                },
+                {
+                    "label": "Graphics Processing Unit (GPU)",
+                    "included": 1
+                },
+                {
+                    "label": "Random Access Memory (RAM)",
+                    "included": 1
+                },
+                {
+                    "label": "Solid State Drive (SSD)",
+                    "included": 1
+                },
+                {
+                    "label": "Hard Disk Drive (HDD)",
+                    "included": 1
+                }
+            ],
+            "button": {
+                "label": "Contact Now",
+                "link": "/contact"
+            }
+        },
+        {
+            "active": 0,
+            "title": "Motherboard Components",
+            "subtitle": "Computer & Tech Components",
+            "price": "",
+            "icon": "fas fa-rocket",
+            "list": [
+                {
+                    "label": "Motherboard",
+                    "included": 1
+                },
+                {
+                    "label": "Power Supply Unit (PSU)",
+                    "included": 1
+                },
+                {
+                    "label": "Cooling System (Fans, Liquid Cooling)",
+                    "included": 1
+                },
+                {
+                    "label": "Computer Case/Chassis",
+                    "included": 1
+                },
+                {
+                    "label": "Fan Controllers & Case",
+                    "included": 1
+                }
+            ],
+            "button": {
+                "label": "Contact Now",
+                "link": "/contact"
+            }
+        },
+        {
+            "active": 0,
+            "title": "External Storage and Accessories",
+            "subtitle": "Computer and Tech Components",
+            "price": "",
+            "icon": "fas fa-rocket",
+            "list": [
+                {
+                    "label": "External Hard Drives (HDD, SSD)",
+                    "included": 1
+                },
+                {
+                    "label": "External SSD Enclosures",
+                    "included": 1
+                },
+                {
+                    "label": "USB Flash Drives & USB Hubs",
+                    "included": 1
+                },
+                {
+                    "label": "Thunderbolt Expansion Cards",
+                    "included": 1
+                },
+                {
+                    "label": "RAID Controllers",
+                    "included": 1
+                }
+            ],
+            "button": {
+                "label": "Contact Now",
+                "link": "/contact"
+            }
+        },
+        {
+            "active": 0,
+            "title": "Networking and Connectivity",
+            "subtitle": "Computer and Tech Components",
+            "price": "",
+            "icon": "fas fa-rocket",
+            "list": [
+                {
+                    "label": "Network Interface Cards (NIC)",
+                    "included": 1
+                },
+                {
+                    "label": "Router & Modem",
+                    "included": 1
+                },
+                {
+                    "label": "Ethernet Cables & Connectors",
+                    "included": 1
+                },
+                {
+                    "label": "Wi-Fi Adapters",
+                    "included": 1
+                },
+                {
+                    "label": "Network Switches",
+                    "included": 1
+                }
+            ],
+            "button": {
+                "label": "Contact Now",
+                "link": "/contact"
+            }
+        },
+        {
+            "active": 0,
+            "title": "Input and Output",
+            "subtitle": "Computing Accessories",
+            "price": "",
+            "icon": "fas fa-rocket",
+            "list": [
+                {
+                    "label": "Monitor (LED, LCD, OLED, etc.)",
+                    "included": 1
+                },
+                {
+                    "label": "Keyboard (Wired, Wireless)",
+                    "included": 1
+                },
+                {
+                    "label": "Mouse (Wired, Wireless, Gaming)",
+                    "included": 1
+                },
+                {
+                    "label": "Touchpad/Trackpad (for laptops)",
+                    "included": 1
+                },
+                {
+                    "label": "Webcam & Microphone",
+                    "included": 1
+                }
+            ],
+            "button": {
+                "label": "Contact Now",
+                "link": "/contact"
+            }
+        },
+        {
+            "active": 0,
+            "title": "Audio and Visual",
+            "subtitle": "Computing Accessories",
+            "price": "",
+            "icon": "fas fa-rocket",
+            "list": [
+                {
+                    "label": "Headphones/Headsets",
+                    "included": 1
+                },
+                {
+                    "label": "Speakers(2.0, 2.1, 5.1, etc.)",
+                    "included": 1
+                },
+                {
+                    "label": "Sound & Sound Capture Cards",
+                    "included": 1
+                },
+                {
+                    "label": "Capture Card",
+                    "included": 1
+                },
+                {
+                    "label": "Laptop Chargers & Battery",
+                    "included": 1
+                }
+            ],
+            "button": {
+                "label": "Contact Now",
+                "link": "/contact"
+            }
+        },
+        {
+            "active": 0,
+            "title": "Mobile Components",
+            "subtitle": "Smartphone Parts & Accessories",
+            "price": "",
+            "icon": "fas fa-rocket",
+            "list": [
+                {
+                    "label": "Processor & Memory Chips",
+                    "included": 1
+                },
+                {
+                    "label": "Power Management ICs",
+                    "included": 1
+                },
+                {
+                    "label": "Camera Sensors",
+                    "included": 1
+                },
+                {
+                    "label": "Motherboards",
+                    "included": 1
+                },
+                {
+                    "label": "Chipsets",
+                    "included": 1
+                }
+            ],
+            "button": {
+                "label": "Contact Now",
+                "link": "/contact"
+            }
+        },
+        {
+            "active": 0,
+            "title": "Screen and Display Parts",
+            "subtitle": "Smartphone Parts & Accessories",
+            "price": "",
+            "icon": "fas fa-rocket",
+            "list": [
+                {
+                    "label": "Smartphone Screens",
+                    "included": 1
+                },
+                {
+                    "label": "Touch Pad Sensors",
+                    "included": 1
+                },
+                {
+                    "label": "Display Assemblies",
+                    "included": 1
+                },
+                {
+                    "label": "Digitizer Panels",
+                    "included": 1
+                },
+                {
+                    "label": "OLED Screens",
+                    "included": 1
+                }
+            ],
+            "button": {
+                "label": "Contact Now",
+                "link": "/contact"
+            }
+        },
+        {
+            "active": 0,
+            "title": "Mobile Accessories",
+            "subtitle": "Smartphone Parts & Accessories",
+            "price": "",
+            "icon": "fas fa-rocket",
+            "list": [
+                {
+                    "label": "Charging Cables & Adapters",
+                    "included": 1
+                },
+                {
+                    "label": "Wireless Charging Pads & Stands",
+                    "included": 1
+                },
+                {
+                    "label": "Camera Lenses & Attachments",
+                    "included": 1
+                },
+                {
+                    "label": "Portable Power Banks",
+                    "included": 1
+                },
+                {
+                    "label": "Wireless Earbuds",
+                    "included": 1
+                }
+            ],
+            "button": {
+                "label": "Contact Now",
+                "link": "/contact"
+            }
+        },
+        {
+            "active": 0,
+            "title": "Entertainment and Multimedia",
+            "subtitle": "Consumer Electronics",
+            "price": "",
+            "icon": "fas fa-rocket",
+            "list": [
+                {
+                    "label": "Television (LED, OLED, etc.",
+                    "included": 1
+                },
+                {
+                    "label": "Home Theater Systems",
+                    "included": 1
+                },
+                {
+                    "label": "Media Players",
+                    "included": 1
+                },
+                {
+                    "label": "Gaming Consoles",
+                    "included": 1
+                },
+                {
+                    "label": "Projectors",
+                    "included": 1
+                }
+            ],
+            "button": {
+                "label": "Contact Now",
+                "link": "/contact"
+            }
+        },
+        {
+            "active": 0,
+            "title": "Communication and Connectivity",
+            "subtitle": "Consumer Electronics",
+            "price": "",
+            "icon": "fas fa-rocket",
+            "list": [
+                {
+                    "label": "Smartphones & Tablets",
+                    "included": 1
+                },
+                {
+                    "label": "Bluetooth Speakers",
+                    "included": 1
+                },
+                {
+                    "label": "Smartwatches",
+                    "included": 1
+                },
+                {
+                    "label": "Wifi & Routers",
+                    "included": 1
+                },
+                {
+                    "label": "CCTV",
+                    "included": 1
+                }
+            ],
+            "button": {
+                "label": "Contact Now",
+                "link": "/contact"
+            }
+        },
+        {
+            "active": 0,
+            "title": "Smart Electronics and Home Automation",
+            "subtitle": "Consumer Electronics",
+            "price": "",
+            "icon": "fas fa-rocket",
+            "list": [
+                {
+                    "label": "Home Hubs",
+                    "included": 1
+                },
+                {
+                    "label": "Smart Plugs & Outlets",
+                    "included": 1
+                },
+                {
+                    "label": "Auto Lighting Systems",
+                    "included": 1
+                },
+                {
+                    "label": "Smart Thermostats",
+                    "included": 1
+                },
+                {
+                    "label": "Digital Screens",
+                    "included": 1
+                }
+            ],
+            "button": {
+                "label": "Contact Now",
+                "link": "/contact"
+            }
+        },
+        {
+            "active": 0,
+            "title": "Apparel and Accessories",
+            "subtitle": "Fashion & Home Essentials",
+            "price": "",
+            "icon": "fas fa-rocket",
+            "list": [
+                {
+                    "label": "Men's & Women's Clothing",
+                    "included": 1
+                },
+                {
+                    "label": "Footwears",
+                    "included": 1
+                },
+                {
+                    "label": "Unisex Trendy Bags & Backpacks",
+                    "included": 1
+                },
+                {
+                    "label": "Fashion Jewellery",
+                    "included": 1
+                },
+                {
+                    "label": "Sunglasses & Eyewear",
+                    "included": 1
+                }
+            ],
+            "button": {
+                "label": "Contact Now",
+                "link": "/contact"
+            }
+        },
+        {
+            "active": 0,
+            "title": "Home Textiles and Decor",
+            "subtitle": "Fashion & Home Essentials",
+            "price": "",
+            "icon": "fas fa-rocket",
+            "list": [
+                {
+                    "label": "Premium-quality Fabrics",
+                    "included": 1
+                },
+                {
+                    "label": "Fashionable Scarves & Shawls",
+                    "included": 1
+                },
+                {
+                    "label": "Home Textiles",
+                    "included": 1
+                },
+                {
+                    "label": "Decorative Cushions & Throws",
+                    "included": 1
+                },
+                {
+                    "label": "Textile-based Accessories",
+                    "included": 1
+                }
+            ],
+            "button": {
+                "label": "Contact Now",
+                "link": "/contact"
+            }
+        },
+        {
+            "active": 0,
+            "title": "Other Accessories",
+            "subtitle": "Fashion & Home Essentials",
+            "price": "",
+            "icon": "fas fa-rocket",
+            "list": [
+                {
+                    "label": "Belts & Belt Accessories",
+                    "included": 1
+                },
+                {
+                    "label": "Wrist Watches",
+                    "included": 1
+                },
+                {
+                    "label": "Fashionable Scarves & Shawls",
+                    "included": 1
+                },
+                {
+                    "label": "Sunglasses & Eyewear",
+                    "included": 1
+                },
+                {
+                    "label": "Jewelry Accents",
+                    "included": 1
+                }
+            ],
+            "button": {
+                "label": "Contact Now",
+                "link": "/contact"
+            }
+        }
+    ]
+}
