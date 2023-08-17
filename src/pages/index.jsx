@@ -2,7 +2,6 @@ import React from "react";
 import { useEffect } from "react";
 import Layouts from "@layouts/Layouts";
 import dynamic from "next/dynamic";
-
 import { getSortedPostsData } from "@library/posts";
 import { getSortedProjectsData } from "@/src/lib/products";
 import { getSortedTeamData } from "@library/team";
@@ -31,8 +30,6 @@ const Home1 = (props) => {
         <TeamSection team={props.team} />
         <TestimonialSlider />
         <VideoSection />
-
-
       </>
     </Layouts>
   );
