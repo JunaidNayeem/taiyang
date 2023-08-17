@@ -3,7 +3,7 @@ import PageBanner from "@components/PageBanner";
 import Link from "next/link";
 
 import { getAllTeamIds, getTeamData } from "@library/team";
-import { getFeaturedProjectsData } from "@library/projects";
+import { getFeaturedProjectsData } from "@/src/lib/products";
 import { getFeaturedServicesData } from "@library/services";
 
 const TeamDetail = ( { postData, projects, services } ) => {

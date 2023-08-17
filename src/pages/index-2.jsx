@@ -3,7 +3,7 @@ import Layouts from "@layouts/Layouts";
 import dynamic from "next/dynamic";
 
 import { getSortedPostsData } from "@library/posts";
-import { getSortedProjectsData } from "@library/projects";
+import { getSortedProjectsData } from "@/src/lib/products";
 import { getSortedTeamData } from "@library/team";
 
 import Services2Section from "@components/sections/Services2"

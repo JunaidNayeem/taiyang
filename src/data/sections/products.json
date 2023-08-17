@@ -1,9 +1,9 @@
 {
-    "subtitle": "Featured Projects",
+    "subtitle": "Featured Products",
     "title": "Take a Look at Some <br>of Our Work",
     "button": {
-        "label": "All Projects",
-        "link": "/projects"
+        "label": "All Products",
+        "link": "/products"
     },
     "numOfItems": 8
 }

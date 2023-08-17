@@ -1,7 +1,7 @@
 import Layouts from "@layouts/Layouts";
 import dynamic from "next/dynamic";
 
-import { getSortedProjectsData } from "@library/projects";
+import { getSortedProjectsData } from "@/src/lib/products";
 
 import PageBanner from "@components/PageBanner";
 

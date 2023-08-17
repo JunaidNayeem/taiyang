@@ -1,9 +1,9 @@
 {
-    "subtitle": "Featured Projects",
+    "subtitle": "Featured Products",
     "title": "Studio Showcase",
     "button": {
-        "label": "All Projects",
-        "link": "/projects"
+        "label": "All Products",
+        "link": "/products"
     },
     "numOfItems": 5
 }
