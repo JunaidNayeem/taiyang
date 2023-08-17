@@ -17,7 +17,7 @@ const HistorySlider = dynamic( () => import("@components/sliders/History"), { ss
 const Testimonial2Slider = dynamic( () => import("@components/sliders/Testimonial2"), { ssr: false } );
 const LatestPostsSlider = dynamic( () => import("@components/sliders/LatestPosts"), { ssr: false } );
 
-const ProjectsSection = dynamic( () => import("@components/sections/Projects"), { ssr: false } );
+const ProjectsSection = dynamic( () => import("@/src/components/sections/Products"), { ssr: false } );
 
 const Home2 = (props) => {
   return (

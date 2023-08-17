@@ -1,4 +1,4 @@
-import Data from "@data/sections/projects.json";
+import Data from "@data/sections/products.json";
 import Link from "next/link";
 import Isotope from "isotope-layout";
 import { useEffect, useRef, useState } from "react";
