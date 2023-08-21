@@ -103,7 +103,7 @@
     },
     {
       "active": 0,
-      "title": "Networking and Connectivity",
+      "title": "Networking",
       "subtitle": "Computer and Tech Components",
       "price": "",
       "icon": "fas fa-rocket",
@@ -235,7 +235,7 @@
     },
     {
       "active": 0,
-      "title": "Screen and Display Parts",
+      "title": "Screen and Display",
       "subtitle": "Smartphone Parts & Accessories",
       "price": "",
       "icon": "fas fa-rocket",
@@ -301,7 +301,7 @@
     },
     {
       "active": 0,
-      "title": "Entertainment and Multimedia",
+      "title": "Entertainment",
       "subtitle": "Consumer Electronics",
       "price": "",
       "icon": "fas fa-rocket",
@@ -334,7 +334,7 @@
     },
     {
       "active": 0,
-      "title": "Communication and Connectivity",
+      "title": "Communication",
       "subtitle": "Consumer Electronics",
       "price": "",
       "icon": "fas fa-rocket",
@@ -367,7 +367,7 @@
     },
     {
       "active": 0,
-      "title": "Smart Electronics and Home Automation",
+      "title": "Smart Electronics",
       "subtitle": "Consumer Electronics",
       "price": "",
       "icon": "fas fa-rocket",
@@ -400,7 +400,7 @@
     },
     {
       "active": 0,
-      "title": "Apparel and Accessories",
+      "title": "Apparel",
       "subtitle": "Fashion & Home Essentials",
       "price": "",
       "icon": "fas fa-rocket",
@@ -433,7 +433,7 @@
     },
     {
       "active": 0,
-      "title": "Home Textiles and Decor",
+      "title": "Home Textiles",
       "subtitle": "Fashion & Home Essentials",
       "price": "",
       "icon": "fas fa-rocket",
