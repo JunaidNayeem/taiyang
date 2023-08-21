@@ -1,83 +1,83 @@
 {
-    "subtitle": "Welcome to Taiyang",
-    "title": "Digital Creative Agency <br />with Breaking Ideas",
-    "text": "From the moment our company was founded, we have helped our clients find <strong>exceptional solutions for their businesses</strong>, creating memorable brands and digital products. Our expertise grows with each year.",
-    "signature": {
-        "image": "/images/signature.png",
-        "alt": "signature"
+  "subtitle": "Welcome to Taiyang",
+  "title": "Digital Creative Agency <br />with Breaking Ideas",
+  "text": "From the moment our company was founded, we have helped our clients find <strong>exceptional solutions for their businesses</strong>, creating memorable brands and digital products. Our expertise grows with each year.",
+  "signature": {
+    "image": "/images/signature.png",
+    "alt": "signature"
+  },
+  "items": [
+    {
+      "icon": "/images/lip.png",
+      "title": "Business Consulting",
+      "list": [
+        "In-Depth Market Research a&nd Analysis",
+        "Bespoke Business Strategy Development",
+        "Optimization of Operational",
+        "Exemplary Inventory Management",
+        "Business Process Refinement"
+      ],
+      "link": ""
     },
-    "items": [
-        {
-            "icon": "/images/lip.png",
-            "title": "Business Consulting",
-            "list": [
-                "In-Depth Market Research a&nd Analysis",
-                "Bespoke Business Strategy Development",
-                "Optimization of Operational Excellence",
-                "Exemplary Inventory Management",
-                "Business Process Refinement"
-            ],
-            "link": ""
-        },
-        {
-            "icon": "/images/lip.png",
-            "title": "Organizational Excellence",
-            "list": [
-                "Talent Assessment, Executive Coaching",
-                "Operations & Inventory Management",
-                "Organizational Performance Growth",
-                "Diversity, Equity, & Inclusion Consulting",
-                "Innovation & Creativity Workshops"
-            ],
-            "link": "/services/service-2"
-        },
-        {
-            "icon": "/images/lip.png",
-            "title": "Cybersecurity Solutions",
-            "list": [
-                "IT Infrastructure Assessment and Optimization",
-                "Cybersecurity Training & Awareness",
-                "Data Backup & Recovery Solutions",
-                "Endpoint Security Solutions",
-                "Security Policy Development"
-            ],
-            "link": "/services/service-3"
-        },
-        {
-            "icon": "/images/lip.png",
-            "title": "Digital Branding",
-            "list": [
-                "Brand Strategy Consulting",
-                "Logo & Visual Identity Design (Colors, Typography)",
-                "Website Development & Design",
-                "Content Creation (Graphics, Videos, Articles)",
-                "Search Engine Optimization (SEO)"
-            ],
-            "link": "/services/service-3"
-        },
-        {
-            "icon": "/images/lip.png",
-            "title": "Advertising",
-            "list": [
-                "Pay-Per-Click (PPC) Advertising",
-                "Content & Influencer Marketing",
-                "Social Media Marketing",
-                "Video Production & Marketing",
-                "Brand Workshops and Training"
-            ],
-            "link": "/services/service-3"
-        },
-        {
-            "icon": "/images/lip.png",
-            "title": "E-commerce",
-            "list": [
-                "Holistic Strategy Development & Seamless Execution",
-                "Organizational Restructuring for Peak Efficiency",
-                "Future Readiness & Strategic Planning",
-                "E-commerce Solutions",
-                "Network Security Solutions"
-            ],
-            "link": "/services/service-3"
-        }
-    ]
+    {
+      "icon": "/images/lip.png",
+      "title": "Organizational Excellence",
+      "list": [
+        "Talent Assessment, Executive Coaching",
+        "Operations & Inventory Management",
+        "Organizational Performance ",
+        "Diversity, Equity, & Inclusion Consulting",
+        "Innovation & Creativity "
+      ],
+      "link": "/services/service-2"
+    },
+    {
+      "icon": "/images/lip.png",
+      "title": "Cybersecurity Solutions",
+      "list": [
+        "IT Infrastructure Assessment and Optimization",
+        "Cybersecurity Training & Awareness",
+        "Data Backup & Recovery Solutions",
+        "Endpoint Security Solutions",
+        "Security Policy Development"
+      ],
+      "link": "/services/service-3"
+    },
+    {
+      "icon": "/images/lip.png",
+      "title": "Digital Branding",
+      "list": [
+        "Brand Strategy Consulting",
+        "Logo & Visual Identity Design (Colors, Typography)",
+        "Website Development & Design",
+        "Content Creation ",
+        "Search Engine Optimization"
+      ],
+      "link": "/services/service-3"
+    },
+    {
+      "icon": "/images/lip.png",
+      "title": "Advertising",
+      "list": [
+        "Pay-Per-Click (PPC) Advertising",
+        "Content & Influencer Marketing",
+        "Social Media Marketing",
+        "Video Production & Marketing",
+        "Brand Workshops and Training"
+      ],
+      "link": "/services/service-3"
+    },
+    {
+      "icon": "/images/lip.png",
+      "title": "E-commerce",
+      "list": [
+        "Holistic Strategy Development & Seamless Execution",
+        "Organizational Restructuring for Peak Efficiency",
+        "Future Readiness & Strategy",
+        "E-commerce Solutions",
+        "Network Security Solutions"
+      ],
+      "link": "/services/service-3"
+    }
+  ]
 }
