@@ -1,19 +1,19 @@
 {
-    "items": [
-        {
-            "value": "05",
-            "label": "Team members",
-            "after": ""
-        },
-        {
-            "value": "10",
-            "label": "Countries Served",
-            "after": "+"
-        },
-        {
-            "value": "250",
-            "label": "Products",
-            "after": "+"
-        }
-    ]
+  "items": [
+    {
+      "value": "30",
+      "label": "Project Delivered",
+      "after": "+"
+    },
+    {
+      "value": "10",
+      "label": "Countries Served",
+      "after": "+"
+    },
+    {
+      "value": "250",
+      "label": "Products",
+      "after": "+"
+    }
+  ]
 }
