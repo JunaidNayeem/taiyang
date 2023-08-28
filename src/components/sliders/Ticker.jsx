@@ -8,9 +8,9 @@ const TickerSlider = () => {
   return (
     <>
       {/* Onovo Ticker */}
-      <section className="onovo-section gap-bottom-140">
+      <section className="onovo-section">
         {/* Ticker swiper */}
-        <div className="onovo-ticker-slider gap-top-20 gap-bottom-20">
+        <div className="onovo-ticker-slider gap-top-30 gap-bottom-30">
           <Swiper
             {...sliderProps.tickerSlider}
             className="swiper-container js-ticker-slider"

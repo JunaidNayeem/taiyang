@@ -1,13 +1,13 @@
 {
   "items": [
     {
-      "value": "30",
-      "label": "Project Delivered",
+      "value": "10",
+      "label": "Countries Served",
       "after": "+"
     },
     {
-      "value": "10",
-      "label": "Countries Served",
+      "value": "50",
+      "label": "Projects Delivered",
       "after": "+"
     },
     {

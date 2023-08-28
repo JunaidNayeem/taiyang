@@ -64,13 +64,13 @@ const About = (props) => {
                 </h2>
                 <div className="onovo-text">
                   <p style={{ textAlign: "justify" }}>
-                      Taiyang is a dynamic and rapidly expanding start-up that
-                      specializes in e-commerce sales, import, and export
-                      activities, with a specific focus on premium-grade
-                      computer parts, components,and peripherals. We also engage
-                      in wholesale trading of finished and unfinished goods,
-                      including clothing, textiles, related items, and other
-                      fashion products and accessories.
+                    Taiyang is a dynamic and rapidly expanding start-up that
+                    specializes in e-commerce sales, import, and export
+                    activities, with a specific focus on premium-grade computer
+                    parts, components,and peripherals. We also engage in
+                    wholesale trading of finished and unfinished goods,
+                    including clothing, textiles, related items, and other
+                    fashion products and accessories.
                     <br />
                     <br /> Headquartered in the heart of Singapore, our
                     strategic locationprovides us with a distinct advantage in
@@ -81,38 +81,40 @@ const About = (props) => {
                     make it to our inventory. We strive to leave a lasting
                     impact on diverse industries, not only in Singapore but also
                     across international borders. Our core mission revolves
-                    around revolutionizing the world of international trade
-                    by seamlessly connecting consumers worldwide with new
-                    and premium-quality products.
+                    around revolutionizing the world of international trade by
+                    seamlessly connecting consumers worldwide with new and
+                    premium-quality products.
                     <br />
                     <br />
-                    At our core, we are an import-export,trading business with a clear vision for the future.
-                    However, we understand that our expertise extends beyond our
-                    primary sector. Embracing this potential, we also offer a
-                    diverse range of services to cater tothe evolving needs of
-                    our clients. Drawing inspiration from the rich cultural
-                    symbolism of the term "Taiyang," which translates to the "sun" in
-                    Chinese, we aspire to leave alasting impact on diverse
-                    industries, not only in Singapore but alsoacross
-                    international borders. Much like the sun's warmth and
-                    vitality, we seek to revolutionize the world of international
-                    trade byseamlessly connecting consumers worldwide with new and premium-quality products. Apart from our exceptional
-                    products, we also provide top-notch IT consulting and
-                    cybersecurity solutions to safeguard
-                    businesses from modern-day threats.
+                    At our core, we are an import-export,trading business with a
+                    clear vision for the future. However, we understand that our
+                    expertise extends beyond our primary sector. Embracing this
+                    potential, we also offer a diverse range of services to
+                    cater tothe evolving needs of our clients. Drawing
+                    inspiration from the rich cultural symbolism of the term
+                    "Taiyang," which translates to the "sun" in Chinese, we
+                    aspire to leave alasting impact on diverse industries, not
+                    only in Singapore but alsoacross international borders. Much
+                    like the sun's warmth and vitality, we seek to revolutionize
+                    the world of international trade byseamlessly connecting
+                    consumers worldwide with new and premium-quality products.
+                    Apart from our exceptional products, we also provide
+                    top-notch IT consulting and cybersecurity solutions to
+                    safeguard businesses from modern-day threats.
                     <br />
-                    <br /> Our team of creative minds excels in digital branding,
-                    design, and marketing services, empowering our clients to
-                    make a significant impact in the digital landscape.  With a
-                    firm belief in our abilities and a passion for innovation,
-                    we look forward to embracing new challenges and achieving
-                    success across various sectors. As the "Taiyang" guides and
-                    enlightens, we are committed to delivering excellence in
-                    everything we do, ensuring that our clients can trust us as
-                    their reliable partner on their journey to growth and
-                    prosperity. Our name reflects our mission, as we strive to
-                    shine brightly in the world of international trade,
-                    bringing light and energy to our client's businesses.
+                    <br /> Our team of creative minds excels in digital
+                    branding, design, and marketing services, empowering our
+                    clients to make a significant impact in the digital
+                    landscape. With a firm belief in our abilities and a passion
+                    for innovation, we look forward to embracing new challenges
+                    and achieving success across various sectors. As the
+                    "Taiyang" guides and enlightens, we are committed to
+                    delivering excellence in everything we do, ensuring that our
+                    clients can trust us as their reliable partner on their
+                    journey to growth and prosperity. Our name reflects our
+                    mission, as we strive to shine brightly in the world of
+                    international trade, bringing light and energy to our
+                    client's businesses.
                   </p>
                 </div>
               </div>
@@ -120,25 +122,7 @@ const About = (props) => {
           </div>
 
           {/* Numbers items */}
-          <div className="row gap-row gap-bottom-100">
-            {/*number-item*/}
-            <div className="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-              <div className="onovo-counter">
-                <div
-                  className="num onovo-text-white js-counter"
-                  data-end-value="05"
-                >
-                  <CountUp
-                    end="05"
-                    duration={7}
-                    enableScrollSpy={true}
-                    scrollSpyOnce={true}
-                  />
-                </div>
-                <div className="label"> Team Members </div>
-              </div>
-            </div>
-
+          <div className="row gap-row gap-bottom-50">
             {/*number-item*/}
             <div className="col-xs-12 col-sm-12 col-md-4 col-lg-4">
               <div className="onovo-counter">
@@ -155,6 +139,24 @@ const About = (props) => {
                 </div>
                 <div className="num-after onovo-text-white"> + </div>
                 <div className="label"> Countries Served </div>
+              </div>
+            </div>
+            {/*number-item*/}
+            <div className="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+              <div className="onovo-counter">
+                <div
+                  className="num onovo-text-white js-counter"
+                  data-end-value="05"
+                >
+                  <CountUp
+                    end="50"
+                    duration={7}
+                    enableScrollSpy={true}
+                    scrollSpyOnce={true}
+                  />
+                </div>
+                <div className="num-after onovo-text-white"> + </div>
+                <div className="label"> Projects Delivered </div>
               </div>
             </div>
 
