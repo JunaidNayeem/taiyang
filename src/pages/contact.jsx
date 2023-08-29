@@ -10,6 +10,10 @@ const Contact = () => {
     subtitle: "",
     items: [
       {
+        title: "Is Taiyang a product company or a service company?",
+        text: "Taiyang is a versatile company that offers both products and services. While our core expertise lies in e-commerce sales, import, and export activities, focusing on premium-grade tech products, computer parts, components, and peripherals, we also engage in wholesale trading of various goods, including clothing, textiles, fashion products, and accessories. Additionally, we provide a range of services such as IT consulting, cybersecurity solutions, digital branding, design, and marketing services. Our commitment is to cater to the evolving needs of our clients, whether they require top-notch products or innovative solutions to enhance their businesses.",
+      },
+      {
         title: "What industries does Taiyang Global serve?",
         text: "Taiyang Global serves various industries, focusing on the import and export of consumer electronics, computer parts, components, peripherals, and wholesale trading of clothing, textiles, and related goods.",
       },

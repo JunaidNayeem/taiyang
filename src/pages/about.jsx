@@ -58,63 +58,61 @@ const About = (props) => {
                 </div>
                 <h2 className="onovo-title-2">
                   <span style={{ textAlign: "justify" }}>
-                    A Diverse Company Transforming Global <br />
-                    Commerce with Dynamic Solutions.
+                    A Diverse Company Transforming Global Commerce with Dynamic
+                    Products and Solutions.
                   </span>
                 </h2>
                 <div className="onovo-text">
                   <p style={{ textAlign: "justify" }}>
                     Taiyang is a dynamic and rapidly expanding start-up that
-                    specializes in e-commerce sales, import, and export
-                    activities, with a specific focus on premium-grade computer
-                    parts, components,and peripherals. We also engage in
-                    wholesale trading of finished and unfinished goods,
-                    including clothing, textiles, related items, and other
-                    fashion products and accessories.
+                    specializes in import and export, product sourcing, and
+                    e-commerce sales. We have a specific focus on premium-grade
+                    electronics, tech & IT products, computer parts, components,
+                    and peripherals. Additionally, we engage in wholesale
+                    trading of finished and unfinished goods, including
+                    clothing, textiles, related items, and other fashion
+                    products and accessories.
                     <br />
                     <br /> Headquartered in the heart of Singapore, our
-                    strategic locationprovides us with a distinct advantage in
-                    the ever-evolving globalmarket. Our dedication to excellence
-                    drives us to meticulouslycurate an exceptional range of
+                    strategic location provides us a distinct advantage in the
+                    ever-evolving global market. Our dedication to excellence
+                    drives us to meticulously curate an exceptional range of
                     products. Our team of experts diligently handpicks each
                     product, ensuring that only top-notch, premium-grade items
-                    make it to our inventory. We strive to leave a lasting
-                    impact on diverse industries, not only in Singapore but also
-                    across international borders. Our core mission revolves
-                    around revolutionizing the world of international trade by
-                    seamlessly connecting consumers worldwide with new and
-                    premium-quality products.
+                    make it into our inventory.
                     <br />
                     <br />
-                    At our core, we are an import-export,trading business with a
-                    clear vision for the future. However, we understand that our
-                    expertise extends beyond our primary sector. Embracing this
-                    potential, we also offer a diverse range of services to
-                    cater tothe evolving needs of our clients. Drawing
-                    inspiration from the rich cultural symbolism of the term
-                    "Taiyang," which translates to the "sun" in Chinese, we
-                    aspire to leave alasting impact on diverse industries, not
-                    only in Singapore but alsoacross international borders. Much
-                    like the sun's warmth and vitality, we seek to revolutionize
-                    the world of international trade byseamlessly connecting
-                    consumers worldwide with new and premium-quality products.
-                    Apart from our exceptional products, we also provide
-                    top-notch IT consulting and cybersecurity solutions to
-                    safeguard businesses from modern-day threats.
+                    At our core, we are an import-export and trading business
+                    with a clear vision for the future. However, we understand
+                    that our expertise extends beyond our primary sector.
+                    Embracing this potential, we also offer a diverse range of
+                    services to cater to the evolving needs of our clients.
+                    Drawing inspiration from the rich cultural symbolism of the
+                    term "Taiyang," which translates to "sun" in Chinese, we
+                    aspire to leave a lasting impact on diverse industries, not
+                    only in Singapore but also across international borders.
+                    Much like the sun's warmth and vitality, we seek to
+                    revolutionize the world of international trade by seamlessly
+                    connecting consumers worldwide with new and premium-quality
+                    products. Apart from our exceptional products, we also
+                    provide top-notch business management consulting, Sales &
+                    Marketing Consulting, IT consulting, and cybersecurity
+                    solutions to safeguard businesses from modern-day threats.
                     <br />
-                    <br /> Our team of creative minds excels in digital
-                    branding, design, and marketing services, empowering our
-                    clients to make a significant impact in the digital
-                    landscape. With a firm belief in our abilities and a passion
-                    for innovation, we look forward to embracing new challenges
-                    and achieving success across various sectors. As the
-                    "Taiyang" guides and enlightens, we are committed to
-                    delivering excellence in everything we do, ensuring that our
-                    clients can trust us as their reliable partner on their
-                    journey to growth and prosperity. Our name reflects our
-                    mission, as we strive to shine brightly in the world of
-                    international trade, bringing light and energy to our
-                    client's businesses.
+                    <br />
+                    Our team of creative minds excels in executive coaching,
+                    visioning strategy, Cyber Strategy, Digital Commerce,
+                    branding, design, and marketing services. This empowers our
+                    clients to make a significant impact. With a firm belief in
+                    our abilities and a passion for innovation, we look forward
+                    to embracing new challenges and achieving success across
+                    various sectors. Just as "Taiyang" guides and enlightens, we
+                    are committed to delivering excellence in everything we do,
+                    ensuring that our clients can trust us as their reliable
+                    partners on their journey to growth and prosperity. Our name
+                    reflects our mission as we strive to shine brightly in the
+                    world of international trade, bringing light and energy to
+                    our clients' businesses.
                   </p>
                 </div>
               </div>

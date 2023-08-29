@@ -1,5 +1,5 @@
 {
-  "title": "<h4>WELCOME TO TAIYANG 太陽</h4>A Diverse Company Transforming Global Commerce with Dynamic Solutions.",
+  "title": "<h4>WELCOME TO TAIYANG 太陽</h4>A Diverse Company Transforming Global Commerce with Dynamic Products And Solutions.",
   "subtitle": "",
   "number": {
     "value": "08",
@@ -8,11 +8,11 @@
   "items": [
     {
       "title": "Our Mission",
-      "text": "We are dedicated to supercharging our clients' businesses in unparalleled ways. We have been the driving force behind impactful brand development, innovative digital products, and successful programs, consistently delivering outstanding results. Even before our company's creation, we have been helping clients succeed. Our journey is characterised by constant growth, driven by the experience we have gained along the way."
+      "text": "To illuminate the world of international trade by seamlessly connecting consumers worldwide with premium-quality products and innovative solutions. We empower businesses with excellence, ensuring growth and prosperity through our diverse range of services and exceptional product offerings."
     },
     {
       "title": "Our Goal",
-      "text": "Our goal is to deliver amazing experiences that make people talk, and build strategic value for brands, tech & entertainment.",
+      "text": "At Taiyang, we aim to curate top electronics, tech, and fashion products, while empowering businesses through consulting, IT solutions, and digital commerce. We're pioneering global expansion, import-export, and e-commerce innovation, driven by partnerships and sustainability. Our focus is on nurturing talent and illuminating international trade with excellence.",
       "button": {
         "label": "More About Us",
         "link": "/about"
