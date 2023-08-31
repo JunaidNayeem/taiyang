@@ -54,7 +54,7 @@ const About = (props) => {
               {/* Heading */}
               <div className="onovo-heading gap-bottom-60">
                 <div className="onovo-subtitle-1" style={{ fontSize: "24px" }}>
-                  <span> Welcome to Taiyang </span>
+                  <span> Welcome to TAIYANG 太陽 </span>
                 </div>
                 <h2 className="onovo-title-2">
                   <span style={{ textAlign: "justify", fontSize: "50px" }}>
