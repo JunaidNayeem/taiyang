@@ -53,11 +53,11 @@ const About = (props) => {
             <div className="col-xs-12 col-sm-12 col-md-12 col-lg-12">
               {/* Heading */}
               <div className="onovo-heading gap-bottom-60">
-                <div className="onovo-subtitle-1">
+                <div className="onovo-subtitle-1" style={{ fontSize: "24px" }}>
                   <span> Welcome to Taiyang </span>
                 </div>
                 <h2 className="onovo-title-2">
-                  <span style={{ textAlign: "justify" }}>
+                  <span style={{ textAlign: "justify", fontSize: "50px" }}>
                     A Diverse Company Transforming Global Commerce with Dynamic
                     Products and Solutions.
                   </span>
@@ -67,19 +67,19 @@ const About = (props) => {
                     Taiyang is a dynamic and rapidly expanding start-up that
                     specializes in import and export, product sourcing, and
                     e-commerce sales. We have a specific focus on premium-grade
-                    electronics, tech & IT products, computer parts, components,
-                    and peripherals. Additionally, we engage in wholesale
-                    trading of finished and unfinished goods, including
-                    clothing, textiles, related items, and other fashion
-                    products and accessories.
+                    electronics, tech and IT products, computer parts,
+                    components, and peripherals. Additionally, we engage in
+                    wholesale trading of finished and unfinished goods,
+                    including clothing, textiles, related items, and other
+                    fashion products and accessories.
                     <br />
                     <br /> Headquartered in the heart of Singapore, our
-                    strategic location provides us a distinct advantage in the
-                    ever-evolving global market. Our dedication to excellence
-                    drives us to meticulously curate an exceptional range of
-                    products. Our team of experts diligently handpicks each
-                    product, ensuring that only top-notch, premium-grade items
-                    make it into our inventory.
+                    strategic location provides us with a distinct advantage in
+                    the ever-evolving global market. Our dedication to
+                    excellence drives us to meticulously curate an exceptional
+                    range of products. Our team of experts diligently handpicks
+                    each product, ensuring that only top-notch, premium-grade
+                    items make it into our inventory.
                     <br />
                     <br />
                     At our core, we are an import-export and trading business
@@ -88,20 +88,20 @@ const About = (props) => {
                     Embracing this potential, we also offer a diverse range of
                     services to cater to the evolving needs of our clients.
                     Drawing inspiration from the rich cultural symbolism of the
-                    term "Taiyang," which translates to "sun" in Chinese, we
+                    term "Taiyang", which translates to "sun" in Chinese, we
                     aspire to leave a lasting impact on diverse industries, not
                     only in Singapore but also across international borders.
                     Much like the sun's warmth and vitality, we seek to
-                    revolutionize the world of international trade by seamlessly
+                    revolutionise the world of international trade by seamlessly
                     connecting consumers worldwide with new and premium-quality
                     products. Apart from our exceptional products, we also
-                    provide top-notch business management consulting, Sales &
-                    Marketing Consulting, IT consulting, and cybersecurity
+                    provide top-notch business management consulting, sales and
+                    marketing consulting, IT consulting, and cybersecurity
                     solutions to safeguard businesses from modern-day threats.
                     <br />
                     <br />
                     Our team of creative minds excels in executive coaching,
-                    visioning strategy, Cyber Strategy, Digital Commerce,
+                    visioning strategy, cyber strategy, digital commerce,
                     branding, design, and marketing services. This empowers our
                     clients to make a significant impact. With a firm belief in
                     our abilities and a passion for innovation, we look forward
@@ -110,7 +110,7 @@ const About = (props) => {
                     are committed to delivering excellence in everything we do,
                     ensuring that our clients can trust us as their reliable
                     partners on their journey to growth and prosperity. Our name
-                    reflects our mission as we strive to shine brightly in the
+                    reflects our mission, as we strive to shine brightly in the
                     world of international trade, bringing light and energy to
                     our clients' businesses.
                   </p>
@@ -190,27 +190,29 @@ const About = (props) => {
           {/* Description */}
           <div className="row gap-top-100">
             <div className="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-              <h5 className="text-uppercase">Our Mission</h5>
+              <h5 className="text-uppercase">VISION</h5>
             </div>
             <div className="col-xs-12 col-sm-12 col-md-8 col-lg-9">
-              Our mission is to provide cutting-edge and reliable computer parts
-              that empower individuals and businesses to achieve their full
-              potential in the digital world. We are committed to delivering
-              exceptional quality, innovative technology, and unparalleled
-              customer support.
+              To be the radiant force that transforms global commerce, setting
+              new standards for product quality, service excellence, and
+              innovative solutions. We aspire to leave a lasting impact on
+              industries across international borders, guided by the symbolism
+              of "Taiyang," spreading light and energy to every facet of our
+              client's endeavours.
             </div>
           </div>
 
           {/* Description */}
           <div className="row gap-top-60">
             <div className="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-              <h5 className="text-uppercase">Our Goal</h5>
+              <h5 className="text-uppercase">PURPOSE</h5>
             </div>
             <div className="col-xs-12 col-sm-12 col-md-8 col-lg-9">
-              Maintain a leading position in technological innovation by
-              investing in research and development, exploring emerging
-              technologies, and introducing groundbreaking products to the
-              market.
+              We are driven by the purpose of delivering state-of-the-art
+              products and services that empower individuals and businesses to
+              reach their full potential. Our unwavering dedication is reflected
+              in the exceptional quality, innovative technology, and
+              unparalleled customer support we provide.
             </div>
           </div>
         </div>
